@@ -3,4 +3,6 @@
 
 This project is used to show the front-end and back-end workflow and related technology applications.
 
-The front-end interface style can be found in img
+The screenshot of the front-end interface can be found in the img.
+
+
